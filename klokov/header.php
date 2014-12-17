@@ -3,7 +3,7 @@
 <H1>Персональный сайт студента гр. 14202 Клокова Дениса</H1>
 </CENTER>
 
-<body background="pattern_152.gif">
+<body background="fon.jpg">
 
  <CENTER>
  <table style="border: 1px solid black" background="fon.jpg" width=90% height=5% border=1 rules="cols">
