@@ -4,6 +4,7 @@
                 <meta charset="utf-8">
         </head>
         <body background="/~saltuk/Hobbies/fon.jpg">
+		<div style="width:70%; margin:0 auto; background:rgba(255,255,255,0.7); border:solid 1px #aaa; border-radius:20px; margin-top:50px; margin-bottomm:50px;">
                 <h1 align="center">ХОББИ, МОЕ ХОББИ</h1>
                 <div class="invis"><p class="two2">
                 ...Начнем с многоточия, долго не мог выбрать о чем рассказать, так как увлечений много, а хобби по сути-то и нет...:)
@@ -51,5 +52,6 @@
 
 <form method="post" action="index.html">                                                         <input id="submit" onClick = "window.location='index.html'" class="obtec" type="button" value="Прямиком назад"></form>
         <br/><br/></center>
+		</div>
 </body>
 </html>
