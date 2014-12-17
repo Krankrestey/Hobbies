@@ -69,14 +69,15 @@ nav a:hover{
 	
 }
 body{
-	background-image:url(images/backguitar.jpg);
+	background-image:url(/~saltuk/Hobbies/fon.jpg);
 	background-size:auto;
 	background-attachment:scroll;
 }
 div{
 	width:66%;
-	background-color:white;
+	background-color:rgba(255,255,255,0.7);
 	margin:auto;
+	margin-top:20px;
 	border:2px ridge black;
 
 }

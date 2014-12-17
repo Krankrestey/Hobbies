@@ -16,7 +16,7 @@ else
 			        echo '<a href=#><li class="right">נעיקופ,'.$user.'!</li></a>';
 }
 ?>
-
+<a href="/~saltuk/hobbies/">קועמץפרףס מב ןג‎ץא</A>
 </ul>
 </nav>
 
