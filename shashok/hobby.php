@@ -6,7 +6,7 @@
     </head>
     <body background="/~saltuk/Hobbies/fon.jpg">
 
-        
+        <div style="width:70%; margin:0 auto; background:rgba(255,255,255,0.7); border:solid 1px #aaa; border-radius:20px; margin-top:50px; margin-bottomm:50px;">
 		<center><h1>Мои хобби</h1><br></center>
 		<br>Моим самым главным хобби на данный момент является чтение книг, а также их покупка. Больше всего мне нравится философия, трагедии и ужасы. Покупку же книг я воспринимаю как небольшие подарки самой себе - с моей точки зрения книга является лучшим подарком.
 		<br><center><img src="http://i67.fastpic.ru/big/2014/1217/f2/423df557289ad74440535b3b39e7e4f2.jpg" height="200">	<img src="http://i67.fastpic.ru/big/2014/1217/c9/497643272cd7583a31ec0530377375c9.jpg" height="200"></center>
@@ -46,5 +46,6 @@
 Мне важен твой ответ - любой.<br>
 Была ль я рождена лишь для <br>
 Того, чтоб встретиться с тобой?<br></center>
+</div>
 </body>
 </html>
