@@ -4,7 +4,7 @@
                 <meta charset="utf-8">
         </head>
         <body background="/~saltuk/Hobbies/fon.jpg">
-		<div style="width:70%; margin:0 auto; background:rgba(255,255,255,0.7); border:solid 1px #aaa; border-radius:20px; margin-top:50px; margin-bottomm:50px;">
+		<div style="width:70%; margin:0 auto; background:rgba(255,255,255,0.7); border:solid 1px #aaa; border-radius:20px; margin-top:50px; margin-bottom:50px; padding:20px;">
                 <h1 align="center">ХОББИ, МОЕ ХОББИ</h1>
                 <div class="invis"><p class="two2">
                 ...Начнем с многоточия, долго не мог выбрать о чем рассказать, так как увлечений много, а хобби по сути-то и нет...:)
