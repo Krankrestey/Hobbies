@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
   <title> Хобби </title>	
  </div>
-  <div align=justify style="width:70%; margin:0 auto; background:white; padding:35; padding-top:30; padding-bottom:30">
+  <div align=justify style="width:70%; margin:0 auto; margin-top:20px; background:rgba(255,255,255,0.7); border-radius:20px; border: solid 1px #aaa; padding:35; padding-top:30; padding-bottom:30">
   <iframe align="center" width="675" height="430" src="//www.youtube.com/embed/Woue2cAIVmQ" frameborder="0" allowfullscreen></iframe>
   <p> <font align=center size=5 face="Arial Black" style="margin:15; font-weight:750; font-style:oblique;"> Парапланеризм</font> </p>
   <p> <font style="text-decoration:underline; font-style:italic;">Параплан</font>- разноцветная тряпоичная хреновина, которая летает над головами туристов, если они вдруг сподобятся поехать куда-нибудь в горы, или даже на море, хотя достаточно бриза и дюн, или обрывчика у берега. Анонимусу может не посчастливиться набрести на место гнездования парапланов. Там он наверняка встретит сурового, но романтического пилота, который будет очень убедительно предлагать отправиться в полёт стоимостью в 100500 денег. </p>
