@@ -3,7 +3,7 @@
                 <title>Хобби,ок да</title>
                 <meta charset="utf-8">
         </head>
-        <body>
+        <body background="/~saltuk/Hobbies/fon.jpg">
                 <h1 align="center">ХОББИ, МОЕ ХОББИ</h1>
                 <div class="invis"><p class="two2">
                 ...Начнем с многоточия, долго не мог выбрать о чем рассказать, так как увлечений много, а хобби по сути-то и нет...:)
