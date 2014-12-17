@@ -18,10 +18,7 @@
  <table style="border: 1px solid black" background="pattern_152.gif" width=90% height=5% border=1 rules="cols">
 						<tr align=center >
 							<font color=#1D8ea7>
-							<td style="border: 1px solid black;" width=25%><a href="index.php"><b>Главная</b></a></td>
-							<td style="border: 1px solid black;" width=25%><a href="talk.php"><b>Взлом почтовых ящиков</b></a></td>
-							<td style="border: 1px solid black;" width=25%><a href="hobby.php"><b>Мое хобби</b></a></td>
-							<td style="border: 1px solid black;" width=25%><a href="blog.php"><b>Блог</b></a></td>
+							<td style="border: 1px solid black;" width=25%><a href="document.location='/~saltuk/Hobbies/'"><b>Вернуться к списку хобби</b></a></td>
 						</tr>
 					</table>
 					</center>
