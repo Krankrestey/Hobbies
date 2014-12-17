@@ -2,7 +2,7 @@
  <head>	
  </head>
 
-<body bgcolor=#05d0e1>
+<body background="/~saltuk/Hobbies/fon.jpg">
   <h1 align=center> Welcome! </h1>
   <div align=left>
    <table width=100%>
