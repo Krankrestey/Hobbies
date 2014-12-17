@@ -67,6 +67,8 @@ P.S. Самая памятная игра дала мне немножко славы, так как я попал в <a href="htt
 <CENTER>
 <H1><font color="red">А вот теперь всё!</font></H1>
 </CENTER>
+<p>Если вы смогли дочитать это до конца и у вас появилось желание посетить мой сайт, то держите <a href="http://mephisto.ccfit.nsu.ru/~klokov/"target="_blank">"ссылочку"</a>
+</p>
   </font>
    </div>
 </body>
