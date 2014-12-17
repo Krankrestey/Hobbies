@@ -222,13 +222,13 @@
 		<table  border="0" cellpadding="0" cellspacing="0" width=100% height=150px>
 			<tr><td colspan="2" background="images/header.jpg">
 					<h1 align="center"><br>Салтук Константин</h1>
-					<h4 align="center"> <a href="/~saltuk/" style="color: #0664F1"> Вы можете перейти на мою главную страницу</a></h4></td>
+					<h4 align="center"> <a href="/~saltuk/" style="color: #0664F1"> Кликните, чтобы перейти на мою главную страницу</a></h4></td>
 			</tr>
 			<tr height=32px>
 			</tr>
 		</table>
 		<div id="menu" class="default">
 		<ul>
-		<li onClick="document.location='/~saltuk/Hobbies/'">Главная</li>
+		<li onClick="document.location='/~saltuk/Hobbies/'">Вернуться к списку хобби</li>
 		</ul>
 		</div>
