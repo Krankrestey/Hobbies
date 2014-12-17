@@ -4,7 +4,7 @@
         <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
         <title>Хобби</title>
     </head>
-    <body>
+    <body background="/~saltuk/Hobbies/fon.jpg">
 
         
 		<center><h1>Мои хобби</h1><br></center>
