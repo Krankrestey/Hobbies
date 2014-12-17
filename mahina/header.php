@@ -1,7 +1,11 @@
 <html>
+<style>
+td{
+	border-radius:30px;
+}
+</style>
  <head>	
  </head>
-
 <body background="/~saltuk/Hobbies/fon.jpg">
   <h1 align=center> Welcome! </h1>
   <div align=left>
