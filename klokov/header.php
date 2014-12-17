@@ -6,7 +6,7 @@
 <body background="fon.jpg">
 
  <CENTER>
- <table style="border: 1px solid black" background="fon.jpg" width=90% height=5% border=1 rules="cols">
+ <table style="border: 1px solid black" background="fon.jpg" width=15% height=5% border=1 rules="cols">
 						<tr align=center >
 							<font color=#1D8ea7>
 							<td style="border: 1px solid black;" width=25%><a href="http://mephisto.ccfit.nsu.ru/~saltuk/Hobbies/"><b>Вернуться к списку хобби</b></a></td>
