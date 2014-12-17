@@ -6,7 +6,7 @@
 
 <?php
 if(!isset($_COOKIE['logged'])){
-	        echo '<a href="ccfit.nsu.ru/~loginovsky/login.php"><li class="right">קןךפי</li></a>';
+	        echo '<a href="/~loginovsky/login.php"><li class="right">קןךפי</li></a>';
 }
 else
 {
@@ -16,7 +16,7 @@ else
 			        echo '<a href=#><li class="right">נעיקופ,'.$user.'!</li></a>';
 }
 ?>
-<a href="/~saltuk/hobbies/">קועמץפרףס מב ןג‎ץא</A>
+<a href="/~saltuk/Hobbies/">קועמץפרףס מב ןג‎ץא</A>
 </ul>
 </nav>
 
