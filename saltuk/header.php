@@ -215,33 +215,20 @@
 			height: 200px;
 			}
 		</style>	
-		<!--<script src='https://www.google.com/recaptcha/api.js'></script>-->
         </head>
 	<body style="height:100%;" link="ffffff" vlink="#ffffff"  alink="#ffffff" bgcolor="ffffff" background="images/fon.jpg">
 		<style href>a {text-decoration: none} </style>
 		<div style="width:100%; min-height:100%; height:auto !important;">
 		<table  border="0" cellpadding="0" cellspacing="0" width=100% height=150px>
 			<tr><td colspan="2" background="images/header.jpg">
-					<h1 align="center"><br>Добро пожаловать</h1>
-					<h4 align="center"><?php 
-						$base_c="base_c";
-						$base_c=file($base_c);
-						foreach($base_c as $value){
-							$infile=explode("|",$value);
-							if (md5($_COOKIE['hash'])==$infile[0]){
-								$login=$infile[1];
-								echo $infile[1]; if ($infile[1]=="admin") {$isadmin=1; echo'<a href="make_new.php" style="color: #0664F1"> [Добавить новость] </a>';}; echo'<a href="logout.php?redirect='.$_SERVER['REQUEST_URI'].'" style="color: #0664F1"> [Выйти]</a>'; echo'<a href="lc.php" style="color: #0664F1"> [Личный кабинет]</a>'; $is=1;break;}}
-	       						if($is!=1){echo '<font color="0664f1">Вы ещё не вошли</font> <a href="auth.php?redirect='.$_SERVER['REQUEST_URI'].'" style="color: #0664F1"> [Вход] </a>'; echo'<a href="reg.php" style="color: #0664F1"> [Регистрация]</a>';}?></h4></td>
+					<h1 align="center"><br>Салтук Константин</h1>
+					<h4 align="center"> <a href="/~saltuk/" style="color: #0664F1"> Вы можете перейти на мою главную страницу</a></h4></td>
 			</tr>
 			<tr height=32px>
 			</tr>
 		</table>
 		<div id="menu" class="default">
 		<ul>
-		<li onClick="document.location='index.php'">Главная</li>
-		<li onClick="document.location='talks.php'">Домашка</li>
-		<li onClick="document.location='presentation.php'">Презентация</li>
-		<li onClick="document.location='hobby.php'">Хобби</li>
-		<li onClick="document.location='info.php'">О сайте</li>
+		<li onClick="document.location='/~saltuk/Hobbies/'">Главная</li>
 		</ul>
 		</div>
