@@ -11,19 +11,19 @@ td{
   <div align=left>
    <table width=100%>
      <tr style="font-weight:900;">
-       <?php if ($_COOKIE['login']!="") echo '<td colspan=4 align=right> Ваш логин: '. $_COOKIE["login"] .'</td>
+       <?php if ($_COOKIE['login']!="") echo '<td colspan=4 align=right> п▓п╟я┬ п╩п╬пЁп╦п╫: '. $_COOKIE["login"] .'</td>
 	 <tr>
-	   <td colspan=4 align=right> <a href="/~mahina/logout.php"> Выйти </a> </td>
+	   <td colspan=4 align=right> <a href="/~mahina/logout.php"> п▓я▀п╧я┌п╦ </a> </td>
 	 </tr>';
-	   else echo '<td colspan=4 align=right> <a href="/~mahina/login.php"> Войти </a>  </td>
+	   else echo '<td colspan=4 align=right> <a href="/~mahina/login.php"> п▓п╬п╧я┌п╦ </a>  </td>
 	 </tr>
      <tr>
-	   <td colspan=4 align=right> <a href="/~mahina/register.php"> Зарегистрироваться </a> </td>
+	   <td colspan=4 align=right> <a href="/~mahina/register.php"> п≈п╟я─п╣пЁп╦я│я┌я─п╦я─п╬п╡п╟я┌я▄я│я▐ </a> </td>
 	 </tr>'; ?>
 	 <tr height="50px" size=4 style="background:rgba(120,120,255,0.7); font-weight:500;">
-       <td width=25% align=center> <a href="/~mahina"> <font size=4> Главная </font> </a> </td>
-	   <td width=25% align=center> <a href="/~mahina/blog.php"> <font size=4> Новости </font> </a> </td>
-	   <td width=25% align=center> <a href="/~mahina/talk.php"> <font size=4> Сжатие данных </font> </a> </td>
-	   <td width=25% align=center> <a href="/~mahina/hobby.php"> <font size=4> Хобби </font> </a> </td>
+       <td width=25% align=center> <a href="/~mahina"> <font size=4> п⌠п╩п╟п╡п╫п╟я▐ </font> </a> </td>
+	   <td width=25% align=center> <a href="/~mahina/blog.php"> <font size=4> п²п╬п╡п╬я│я┌п╦ </font> </a> </td>
+	   <td width=25% align=center> <a href="/~mahina/talk.php"> <font size=4> п║п╤п╟я┌п╦п╣ п╢п╟п╫п╫я▀я┘ </font> </a> </td>
+	   <td width=25% align=center> <a href="/~mahina/hobby.php"> <font size=4> п╔п╬п╠п╠п╦ </font> </a> </td>
      </tr>
   </table>
