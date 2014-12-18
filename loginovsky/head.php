@@ -1,22 +1,22 @@
 <nav>
 <ul>
-<a href="/~loginovsky/index.php"><li>βμοη</li></a>
-<a href="/~loginovsky/talk.php" class="right"><li>δολμαδ</li></a>
-<a href="/~loginovsky/hobby.php" class="right"><li>θοββι</li></a>
+<a href="/~loginovsky/index.php"><li>Π‘Π›ΠΠ“</li></a>
+<a href="/~loginovsky/talk.php" class="right"><li>Π”ΠΠΠ›ΠΠ”</li></a>
+<a href="/~loginovsky/hobby.php" class="right"><li>Π¥ΠΠ‘Π‘Π</li></a>
 
 <?php
 if(!isset($_COOKIE['logged'])){
-	        echo '<a href="/~loginovsky/login.php"><li class="right">χοκτι</li></a>';
+	        echo '<a href="/~loginovsky/login.php"><li class="right">Π’ΠΠ™ΠΆΠ</li></a>';
 }
 else
 {
 	        $user=substr(rtrim($_COOKIE['logged']),0,-32);
-		        echo '<a href="/~loginovsky/vyhod.php"><li class="right">χωκτι</li></a>';
-		        echo '<a href="/~loginovsky/addnote.php"><li class="right">δοβαχιτψ ποστ</li></a>';
-			        echo '<a href=#><li class="right">πςιχετ,'.$user.'!</li></a>';
+		        echo '<a href="/~loginovsky/vyhod.php"><li class="right">Π’Π«Π™ΠΆΠ</li></a>';
+		        echo '<a href="/~loginovsky/addnote.php"><li class="right">Π”ΠΠ‘ΠΠ’ΠΠΆΠ¬ ΠΠΠ΅ΠΆ</li></a>';
+			        echo '<a href=#><li class="right">ΠΠ ΠΠ’Π•ΠΆ,'.$user.'!</li></a>';
 }
 ?>
-<a href="/~saltuk/Hobbies/">χεςξυτψσρ ξα οβύυΰ</A>
+<a href="/~saltuk/Hobbies/">Π’Π•Π ΠΠ£ΠΆΠ¬Π΅Π― ΠΠ ΠΠ‘Π©Π£Π®</A>
 </ul>
 </nav>
 
