@@ -221,14 +221,14 @@
 		<div style="width:100%; min-height:100%; height:auto !important;">
 		<table  border="0" cellpadding="0" cellspacing="0" width=100% height=150px>
 			<tr><td colspan="2" background="images/header.jpg">
-					<h1 align="center"><br>Салтук Константин</h1>
-					<h4 align="center"> <a href="/~saltuk/" style="color: #0664F1"> Кликните, чтобы перейти на мою главную страницу</a></h4></td>
+					<h1 align="center"><br>п║п╟п╩я┌я┐п╨ п п╬п╫я│я┌п╟п╫я┌п╦п╫</h1>
+					<h4 align="center"> <a href="/~saltuk/" style="color: #0664F1"> п п╩п╦п╨п╫п╦я┌п╣, я┤я┌п╬п╠я▀ п©п╣я─п╣п╧я┌п╦ п╫п╟ п╪п╬я▌ пЁп╩п╟п╡п╫я┐я▌ я│я┌я─п╟п╫п╦я├я┐</a></h4></td>
 			</tr>
 			<tr height=32px>
 			</tr>
 		</table>
 		<div id="menu" class="default">
 		<ul>
-		<li onClick="document.location='/~saltuk/Hobbies/'">Вернуться к списку хобби</li>
+		<li onClick="document.location='/~saltuk/Hobbies/'">п▓п╣я─п╫я┐я┌я▄я│я▐ п╨ я│п©п╦я│п╨я┐ я┘п╬п╠п╠п╦</li>
 		</ul>
 		</div>
