@@ -50,7 +50,7 @@
         <strong>lolintrovert@gmail.com:</strong>)).Ниже можете увидеть маленькую фитчу из урока каллиграфии в Китае.)</p></div>
         <center><iframe src="http://vk.com/video_ext.php?oid=42539380&id=170249748&hash=e6debff8fa13b657&hd=3" width="607" height="360" frameborder="0"></iframe>
 
-<form method="post" action="index.html">                                                         <input id="submit" onClick = "window.location='index.html'" class="obtec" type="button" value="Прямиком назад"></form>
+<form method="post" action="/~saltuk/Hobbies/">                                                         <input id="submit" onClick = "window.location='index.html'" class="obtec" type="button" value="Прямиком назад"></form>
         <br/><br/></center>
 		</div>
 </body>
