@@ -1,0 +1,11 @@
+a{ 
+	color:black;
+	text-decoration:none;
+}
+.text{margin:0px auto; width:300px; overflow:hidden; font-size:17px; color:black; background:rgba(255,255,255,0.6); border:solid 1px #aaa; border-radius:20px; text-align:center;}
+#outer_container{margin:0px; margin-left:-10px; width:101%; height:110px; padding:0 5px;}
+#thumbScroller{position:relative; overflow:hidden;}
+#thumbScroller .container{position:relative; left:0;}
+#thumbScroller .content{float:left;}
+#thumbScroller .content div{margin:10px; height:100%; margin-left:20px; font-family:Verdana, Geneva, sans-serif; font-size:13px;}
+#thumbScroller img{border:solid 1px #aaa; border-radius:100px; height:100px; width:100px;}
