@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
 </head>
-<body style="height:100%;" link="ffffff" vlink="#ffffff"  alink="#ffffff" bgcolor="ffffff" background="fon.jpg">
+<body style="height:100%;" link="ffffff" vlink="#ffffff"  alink="#ffffff" bgcolor="ffffff" background="images/fon.jpg">
 <?php include 'header.html';?>
 <div style="width:100%; min-height:100%; height:auto !important;">
 <title>Хобби</title>
