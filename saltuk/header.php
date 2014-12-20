@@ -23,6 +23,9 @@
   			  font-family: Segoeu UI;
   			  src: url(fonts/segoeuil.ttf);
 			 }
+			p{
+				text-align: center;
+			}
 			h1,h4 {
 				font-family: Segoeu UI, 'Segoeu UL Light';
 				color: #0664F1;
@@ -68,152 +71,6 @@
 				position:fixed;
 				top:0; left:0;
 			}
-		</style>
-		<style type="text/css">
-			p{
-			text-align: center;
-			}
-			.block,.el,.comment {
-			font-family: "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
-			position: relative;
-			width: 60%;
-			min-width: 700px;
-			overflow: hidden;
-			background: #ffffff;
-			margin: 0 auto;
-			margin-top: 20px;
-			border: solid 1px #cccccc;
-			border-radius:10px; 
-			-webkit-border-radius:10px; 
-			-moz-border-radius:10px; 
-			-khtml-border-radius: 10px;
-			}
-			.block{
-			height:300;
-			}
-			.el{
-			min-width:0;
-			}
-			.fulln{
-			position:absolute;
-			line-height:28px;
-			font-family: "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
-			color: #FFF;
-			width:386px;
-			background: url(images/line.png); 
-			-webkit-border-radius:0 0 0 10px; 
-			-khtml-border-radius: 0 0 0 10px;
-			-o-border-radius:0 0 0 10px;
-			left:0;
-			bottom:0; 
-			padding: 0 0 0 14px;
-			}
-			.button
-			{
-			background-color: #3db6cd;
-			color: #fff;
-			display: block;
-			margin: 0 auto;
-			padding: 4px 0;	
-			min-width:150px;
-			}
-			input{
-			font-family: "Varela Round", Arial, Helvetica, sans-serif;
-			font-weight: 500;
-			font-size:17px;
-			border: 1px solid #3db6cd;
-			-webkit-border-radius: 4px;
-			-moz-border-radius: 4px;
-			border-radius: 4px;
-			background-color: #eee;
-			color: #777;
-			padding: 4px 10px;
-			width: 328px;
-			-webkit-appearance: none;	
-			font-family: "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
-			}
-			.commenttext,.helper{
-			display: inline-block;
-			vertical-align: middle;
-			}
-			.commenttext{
-			padding-left: 180px;
-			padding-right: 15px;
-			font-size: 17px;
-			}
-			.helper{
-			height:100%;
-			width:0;
-			}
-			.newim, .avatar, .avatarcom{
-			width: 400;
-			height: 300;
-			margin-left: 0;
-			float: left;
-			padding-right: 25;
-			}
-			.avatar{
-			width:300;
-			}
-			.avatarcom{
-			position:absolute;
-			width:150px;
-			height:150px;
-			}
-			.zagolovok,.content,.zagolovokn{
-			font-family: "Segoe UI", "Helvetica Neue", Helvetica, Tahoma, Arial;
-			font-size: 25;
-			text-align: justify;
-			color: black;
-			padding-right: 25px;
-			margin-bottom: 0;
-			margin-top: 10;
-			float:bottom;
-			} 
-			.zagolovok
-			{
-			-moz-column-gap: 35px;
-			-webkit-column-gap: 35px;
-			columh-gap: 35px;
-			-webkit-column-width: 10000px;
-			-moz-column-width: 10000px;
-			column-width: 10000px;
-			max-height:60px;
-			overflow: hidden;
-			font-weight:bold;
-			text-align:left;
-			line-height: 1.2;
-			}
-			.zagolovokn
-			{
-			font-size: 30px;;
-			font-weight:bold;
-			text-align:left;
-			line-height: 1.2;
-			marginn:0;
-			margin-top:-15px;
-			}
-			.mask{
-			position:absolute;
-			right:25px;
-			bottom:0px;
-			height: 23px;
-			width: 145px;
-			background: -webkit-linear-gradient(left, rgba(255,255,255,0.2),rgba(255,255,255,0.7), rgba(255,255,255,1));
-			background: -moz-linear-gradient(left, rgba(255,255,255,0.2),rgba(255,255,255,0.7), rgba(255,255,255,1));
-			background: linear-gradient(to right, rgba(255,255,255,0.2),rgba(255,255,255,0.7), rgba(255,255,255,1));
-			}
-			.content{
-			position: relative;
-			-moz-column-gap: 35px;
-			-webkit-column-gap: 35px;
-			column-gap: 35px;
-			font-size: 15;
-			-webkit-column-width: 10000px;
-			-moz-column-width: 10000px;
-			column-width: 10000px;
-			height: 200px;
-			}
 		</style>	
         </head>
 	<body style="height:100%;" link="ffffff" vlink="#ffffff"  alink="#ffffff" bgcolor="ffffff" background="images/fon.jpg">
@@ -222,7 +79,7 @@
 		<table  border="0" cellpadding="0" cellspacing="0" width=100% height=150px>
 			<tr><td colspan="2" background="images/header.jpg">
 					<h1 align="center"><br>Салтук Константин</h1>
-					<h4 align="center"> <a href="/~saltuk/" style="color: #0664F1"> Кликните, чтобы перейти на мою главную страницу</a></h4></td>
+					<h4 align="center"> <a href="/~saltuk/" style="color: #0664F1; text-decoration:none;"> Кликните, чтобы перейти на мою главную страницу</a></h4></td>
 			</tr>
 			<tr height=32px>
 			</tr>
