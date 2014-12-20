@@ -5,7 +5,7 @@
 <div id="thumbScroller">
 	<div class="container">
     	<div class="content">
-        	<div><a href="http://mephisto.ccfit.nsu.ru/~saltuk/Hobbies/saltuk.php"><img src="http://mephisto.ccfit.nsu.ru/~saltuk/Hobbies/logos/saltuk.PNG" title="Салтук Константин" class="thumb" /></a></div>
+        	<div><a href="http://mephisto.ccfit.nsu.ru/~saltuk/Hobbies/saltuk.php"><img src="logos/saltuk.PNG" title="Салтук Константин" class="thumb" /></a></div>
         </div>
         <div class="content">
         	<div><a href="#"><img src="http://cs322918.vk.me/v322918613/5604/TNaIe6-UaXw.jpg" title="Иванов Иван" class="thumb" /></a></div>
@@ -83,7 +83,7 @@
 	$(window).load(function() {
 		sliderLeft=$thumbScroller_container.position().left;
 		padding=$outer_container.css("paddingRight").replace("px", "");
-		sliderWidth=$(window).width()-padding+10;
+		sliderWidth=$(window).width()-padding+15;
 		$thumbScroller.css("width",sliderWidth);
 		var totalContent=0;
 		$thumbScroller_content.each(function () {
