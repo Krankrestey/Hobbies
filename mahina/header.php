@@ -6,7 +6,7 @@ td{
 </style>
  <head>	
  </head>
-<body background="/~saltuk/Hobbies/fon.jpg">
+<body background="/~saltuk/Hobbies/images/fon.jpg">
   <h1 align=center> Welcome! </h1>
   <div align=left>
    <table width=100%>

@@ -4,7 +4,7 @@
         <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
         <title>Хобби</title>
     </head>
-    <body background="/~saltuk/Hobbies/fon.jpg">
+    <body background="/~saltuk/Hobbies/images/fon.jpg">
 
         <div style="width:70%; margin:0 auto; background:rgba(255,255,255,0.7); border:solid 1px #aaa; border-radius:20px; margin-top:50px; margin-bottom:50px; padding:20px;">
 		<center><h1>Мои хобби</h1><br></center>

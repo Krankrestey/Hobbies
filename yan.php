@@ -3,7 +3,7 @@
                 <title>Хобби,ок да</title>
                 <meta charset="utf-8">
         </head>
-        <body background="/~saltuk/Hobbies/fon.jpg">
+        <body background="/~saltuk/Hobbies/images/fon.jpg">
 		<div style="width:70%; margin:0 auto; background:rgba(255,255,255,0.7); border:solid 1px #aaa; border-radius:20px; margin-top:50px; margin-bottom:50px; padding:20px;">
                 <h1 align="center">ХОББИ, МОЕ ХОББИ</h1>
                 <div class="invis"><p class="two2">

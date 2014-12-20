@@ -1,6 +1,6 @@
-</head>
+О╩©</head>
 <CENTER>
-<H1>Персональный сайт студента гр. 14202 Клокова Дениса</H1>
+<H1>п÷п╣я─я│п╬п╫п╟п╩я▄п╫я▀п╧ я│п╟п╧я┌ я│я┌я┐п╢п╣п╫я┌п╟ пЁя─. 14202 п п╩п╬п╨п╬п╡п╟ п■п╣п╫п╦я│п╟</H1>
 </CENTER>
 
 <body background="fon.jpg">
@@ -9,7 +9,7 @@
  <table background="fon.jpg" width=15% height=5%>
 						<tr align=center >
 							<font color=#1D8ea7>
-							<td style="border: 1px solid black; border-radius:30px; background:rgba(0,0,0,0.4);" width=25%><a href="http://mephisto.ccfit.nsu.ru/~saltuk/Hobbies/"><b>Вернуться к списку хобби</b></a></td>
+							<td style="border: 1px solid black; border-radius:30px; background:rgba(0,0,0,0.4);" width=25%><a href="http://mephisto.ccfit.nsu.ru/~saltuk/Hobbies/"><b>п▓п╣я─п╫я┐я┌я▄я│я▐ п╨ я│п©п╦я│п╨я┐ я┘п╬п╠п╠п╦</b></a></td>
 						</tr>
 					</table>
 					</center>
