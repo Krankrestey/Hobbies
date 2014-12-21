@@ -1,4 +1,4 @@
-/*Стили шапки*/
+﻿/*Стили шапки*/
 .textsh{
 	margin:0px auto;
 	width:300px;
@@ -92,3 +92,17 @@
 	float:bottom;
 	} 
 /* Конец стилей Салтука Кости */
+/* Стили Серова Дмитрия */
+.dserov_head {
+	font-family: 'Open Sans', 'Verdana', sans-serif;
+	line-height: 0.7;
+}
+.dserov_text {
+	font-family: 'Open Sans', 'Verdana', sans-serif;
+	white-space: pre-wrap;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+}
+/* Конец стилей Дмитрия Серова */
+
