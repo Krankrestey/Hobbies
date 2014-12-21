@@ -106,3 +106,60 @@
 }
 /* Конец стилей Дмитрия Серова */
 
+/* Начало стилей Липаткина Артёма */
+
+body.lipatkin{
+	background: url("images/lipatkin_background3.png") ;
+	background-attachment: fixed;
+	/*background-color: #40E0D0;*/
+	font-family: Georgia, Arial, Verdana, sans-serif;
+}
+
+h1.lipatkin{
+	font-family: Calibri;
+	text-align: center;
+	color:#F5DEB3;
+	padding: 1em 0;
+	font-size:2.5em;
+
+	/*text-shadow:#fff 0px 1px 0, #000 0 2px 0;*/
+	text-shadow:3px 3px 10px red,-3px -3px 10px yellow;
+	/*color: #101921;*/
+}
+
+#lipatkin_text{
+	background: rgba(0, 206, 209, 0.9);
+
+	margin: 10px auto;
+	padding: 40px;
+	width: 60%;
+	font-size: 1.1em;
+	border-radius: 15px;
+}
+
+#lipatkin_text img{
+	padding: 10px 0;
+}
+
+#lipatkin_text h3{
+	font-size: 1.4em;
+}
+
+#lipatkin_text p{
+	text-indent: 10mm;
+	text-align: justify;
+}
+
+#lipatkin_jump_up{
+	clear: left;
+	background: rgba(0, 206, 209, 0.9);
+
+}
+
+#lipatkin_jump_up p{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+/* Конец стилей Липаткин Артёма */
+
