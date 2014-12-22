@@ -21,7 +21,7 @@
 <img class="newim" style="padding-right:25px; padding-top:15px;" src="http://www.marimedia.ru/media/news/34001/d5474d757688cc8f63821454fa832eb9.jpg">
 <p style="text-align:justify; font-size:17px; margin-bottom:0; padding:0px;">В любой момент, начиная с вашей оплаты и до подтверждения получения и удволетворённости товаром, вы можете открыть с продавцом спор и вернуть часть своих денег, или даже всю сумму:<ol style="text-align:justify; font-size:17px; margin-bottom:0; padding:0px;"><li>В первую очередь снимите распаковку посылки на камеру, предварительно показав, что она запечатана<li>Когда вы вскроете посылку, достаньте товар и проверьте его целостность, функционал и комплектацию</li><li>Если всё хорошо - вы можете в личном кабинете подтвердить получение товара и поблагодарть продавца, оставив ему положительный отзыв</li><li>Если товар оказался плох по одному из вышеперечисленных пунктов - то идёте открывать спор, прикрепив видео с распаковкой, после чего ждите встречного предложения или возврата денег)</li></ol></p></div>
 <div class=el style="padding:25px; min-width:720px; min-height:370px;"><p style="font-size:25px;" class="zagolovokn">Спасибо за прочтение, теперь вы познакомились с моим хобби, и можете сами попробовать сделать свой первый заказ на Aliexpress</p>
-<img class="newim" style="position:absolute; left:0; right:0; margin:0 auto; width:480; height:300;" src="http://vera-vasilyeva.ru/files/c45/c45c2a79e89f57671cb607077bbdb942.jpg">
+<img class="newim" style="position:absolute; left:0; right:0; margin:0 auto; width:450; height:300;" src="http://vera-vasilyeva.ru/files/c45/c45c2a79e89f57671cb607077bbdb942.jpg">
 </div>
 		<div style="width=100%; height:110px;"></div>
 		</div>
