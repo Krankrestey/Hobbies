@@ -1,5 +1,5 @@
 ﻿<html>
-<?php include 'header.html';?>
+
 	<head>
 		<title>Бисероплетение - просто и красиво!;)</title>
 		<meta >
@@ -10,7 +10,9 @@
 		</style>
 	</head>
 	<body>
-
+		<?php 
+			include 'header.html';
+		?>
 		<body background="chernova/fon.jpg"><center>
 		<table valign="middle" width="1250" border="1" bordercolor="#990066">
 			
