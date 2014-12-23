@@ -12,7 +12,7 @@
 		</style>
 
 	</head>
-	<body background="../pics/fon.png" bgcolor="cdb2d4" text="000000" link="4a005e" vlink="5c0051" alink="3c1d40">
+	<body background="images/semushenko_fon.png" bgcolor="cdb2d4" text="000000" link="4a005e" vlink="5c0051" alink="3c1d40">
 <php?
 include 'header.html';
 ?>	
@@ -36,7 +36,7 @@ include 'header.html';
 						</td>
 
 						<td>
-							<img src="./images/me.jpg" width="230" alt="Вдохновение может застать в любой момент" align="rigth">	</td>
+							<img src="images/semushenko_me.jpg" width="230" alt="Вдохновение может застать в любой момент" align="rigth">	</td>
 				</tr>	
 				<tr>	
 					<td colspan="2">
@@ -60,7 +60,7 @@ include 'header.html';
 								</p>
 							</td>
 						<td>
-							<img src="./images/f.jpg" width="230" alt="Вступительные работы" align="right">
+							<img src="images/semushenko_f.jpg" width="230" alt="Вступительные работы" align="right">
 					</td>
 					</tr>
 					<tr>
@@ -86,7 +86,7 @@ include 'header.html';
 			</p>
 			</td>
 			<td>
-			<img src="./images/tree.jpg" width="230" alt="Набросок дерева" align="right">
+			<img src="images/semushenko_tree.jpg" width="230" alt="Набросок дерева" align="right">
 		</td>
 		</tr>
 			<br>
@@ -100,7 +100,7 @@ include 'header.html';
 		</p>
 	</td>
 	<td>
-		<img src="./images/nat.jpg" width="230" alt="Натюрморты" align="right">
+		<img src="images/semushenko_nat.jpg" width="230" alt="Натюрморты" align="right">
 	</td>
 	<tr>
 		<td colspan="2">
@@ -127,13 +127,13 @@ include 'header.html';
 <center>
 <tr>
 	<td align="right">
-		<img src="./images/tr1.jpg" height="500" alt="Триптих">
+		<img src="images/semushenko_tr1.jpg" height="500" alt="Триптих">
 	</td>
 	<td align="center">
-		<img src="./images/tr2.jpg" alt="Триптих" height="500">
+		<img src="images/semushenko_tr2.jpg" alt="Триптих" height="500">
 	</td>
 	<td align="left">
-		<img src="./images/tr3.jpg" alt="Триптих" height="500">
+		<img src="images/semushenko_tr3.jpg" alt="Триптих" height="500">
 	</td>
 </tr>
 <center>
@@ -141,8 +141,8 @@ include 'header.html';
 <table>
 	<tr>
 		<center>
-<img src="./images/head.jpg" height="500" alt="Рисунок"> 
-<img src="./images/sv.JPG" height="500" alt="Свидетельство">	
+<img src="images/semushenko_head.jpg" height="500" alt="Рисунок"> 
+<img src="images/semushenko_sv.JPG" height="500" alt="Свидетельство">	
 </center>
 </tr>
 </table>
@@ -161,24 +161,24 @@ include 'header.html';
 <center>
 	<tr>
 		<td>
-			<img src="./images/alice.JPG" alt=" Алиса" height="500" >
+			<img src="images/semushenko_alice.JPG" alt=" Алиса" height="500" >
 		</td>
 		<td>
-			<img src="./images/aqua" width="500" alt="Вечное стремление">
+			<img src="images/semushenko_aqua" width="500" alt="Вечное стремление">
 		</td>
 		<td>
-			<img src="./images/pain.jpg" height="500" alt="Убийственное молчание">
+			<img src="images/semushenko_pain.jpg" height="500" alt="Убийственное молчание">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="./images/p.jpg" height="500" alt="Графика">
+			<img src="images/semushenko_p.jpg" height="500" alt="Графика">
 		</td>
 		<td>
-			<img src="./images/sp.jpg" width="500" alt="Космос">
+			<img src="images/semushenko_sp.jpg" width="500" alt="Космос">
 		</td>
 		<td>
-			<img src="./images/twof.jpg"alt="Двуличие" height="500" >
+			<img src="images/semushenko_twof.jpg"alt="Двуличие" height="500" >
 		</td>
 
 	</tr>
@@ -199,19 +199,19 @@ include 'header.html';
 				<tr>
 					<td>
 
-						<img src="./images/n1.JPG" height="200">
+						<img src="images/semushenko_n1.JPG" height="200">
 					</td>
 					<td>
-						<img src="./images/n2.JPG" height="200">
+						<img src="images/semushenko_n2.JPG" height="200">
 					</td>
 					<td>
-					<img src="./images/n3.JPG" height="200">
+					<img src="images/semushenko_n3.JPG" height="200">
 					</td>
 					<td>
-						<img src="./images/n4.JPG" height="200">
+						<img src="images/semushenko_n4.JPG" height="200">
 					</td>
 					<td>
-						<img src="./images/n5.JPG" height="200">
+						<img src="images/semushenko_n5.JPG" height="200">
 
 					</td>
 				</tr>
@@ -227,7 +227,7 @@ include 'header.html';
 <tr>
 	<td colspan="5">
 		<center>
-<img src="./images/hand.jpg" height="300">
+<img src="images/semushenko_hand.jpg" height="300">
 </center>
 </td>
 </table>
@@ -245,13 +245,13 @@ include 'header.html';
 	<br>
 	<tr>
 		<td align="right">
-			<img src="./images/swan.jpg" height="300">
+			<img src="images/semushenko_swan.jpg" height="300">
 		</td>
 		<td align="center">
-			<img src="./images/dr.jpg"height="300">
+			<img src="images/semushenko_dr.jpg"height="300">
 		</td>
 		<td align="left">
-			<img src="./images/face.jpg" height="300">
+			<img src="images/semushenko_face.jpg" height="300">
 			</td>
 		</tr>
 		<tr>
@@ -265,11 +265,11 @@ include 'header.html';
 <table>
 	<tr>
 	<td>	
-		<img src="./images/me1.jpg" height="300">
+		<img src="images/semushenko_me1.jpg" height="300">
 	</td>
 	
 	<td>
-		<img src="./images/me2.jpg" height="300">
+		<img src="images/semushenko_me2.jpg" height="300">
 	</td>
 </tr>
 
@@ -277,7 +277,6 @@ include 'header.html';
 
 </table>
 </center>
-		<a href=".."><img src="../pics/back.png" width="170" alt="Главная"/></a>
 	</body>
 </html>
 
