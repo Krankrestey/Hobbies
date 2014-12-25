@@ -7,7 +7,7 @@
         <link href="css/menu.css" rel="stylesheet" type="text/css" />
 		<link href="css/newsblock.css" rel="stylesheet" type="text/css" />
     </head>
-    <body background="/~saltuk/Hobbies/images/fon.jpg">
+    <body style="height:100%;" link="ffffff" vlink="#ffffff"  alink="#ffffff" bgcolor="ffffff" background="images/fon.jpg">
         <header>
         <!--    <h2><center>О хобби, чо.</center></h2> -->
            
